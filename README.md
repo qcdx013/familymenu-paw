@@ -5,4 +5,4 @@ A system that is convenient for family members to order and to prepare ingredien
 `$ yarn`  
 `$ yarn start`
 
-Open <http://localhost:8080> in you browser. 
+Open <http://localhost:8000> in you browser. 
